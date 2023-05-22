@@ -1,4 +1,4 @@
-# 3-cool-controller
+# 3-stylish-controller
 3年生時の特別研究で作成した。研究題目は「理想のかっこいいコントローラ」である。
 
 ## How it started
