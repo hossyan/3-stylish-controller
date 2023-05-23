@@ -20,7 +20,7 @@ RFIDのカードリーダー、指紋認証、ロボットとの通信、起動�
 
 
 ## Robot
-ロボットは時間がなかったためosoyooが販売しているメカナムホイールのロボットにアームをつけ足して作るようにして作成した。
+ロボットは時間がなかったためosoyooが販売しているメカナムホイールのロボットにアームをつけ足して作成した。
 
 購入したロボットはこちら⇒[osoyoo メカナムホイール](https://www.amazon.co.jp/Arduino%E9%81%A9%E7%94%A8-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-360%C2%B0%E5%85%A8%E6%96%B9%E5%90%91%E7%A7%BB%E5%8B%95-directional-Arduino%E7%94%A8%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%82%AD%E3%83%83%E3%83%88/dp/B082D5HPZD/ref=asc_df_B082D5HPZD/?tag=jpgo-22&linkCode=df0&hvadid=493939641561&hvpos=&hvnetw=g&hvrand=16296484007363475093&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009522&hvtargid=pla-1238612417498&psc=1)
 
